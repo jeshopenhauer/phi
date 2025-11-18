@@ -1,2 +1,2 @@
 # phising
-https://jeshopenhauer.github.io/phising/
+https://jeshopenhauer.github.io/phi/
